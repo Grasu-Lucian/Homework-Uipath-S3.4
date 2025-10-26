@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W_dsq2kUg0miLFqJ8xGsYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="1173, 119, 600, 65" DesignTimeScaleFactor="1.25" ElementType="ListItem" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia automationid='downloadsListBox' role='list' /&gt;&lt;uia name='challenge(2).xlsx Terminat — 33,3 KB Afișează în dosar' role='list item' /&gt;" FuzzySelectorArgument="&lt;uia automationid='downloadsListBox' role='list' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;&lt;uia name='challenge(2).xlsx Terminat — 33,3 KB Afișează în dosar' role='list item' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:fulltext='challenge(2).xlsx&amp;#x9;Terminat — 33,3 KB&amp;#x9;Afișează în dosar' /&gt;" Guid="975ee7a1-e433-4159-86d0-01b7269a4da0" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Rpa Challenge — Mozilla Firefox' /&gt;" SearchSteps="Selector" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="5f90cabc0d95c9f5fd81be1653a3bfe4.png" xmlns="">08wm63s5O0Uew1mzl6KGRCQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

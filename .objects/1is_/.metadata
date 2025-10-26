@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox Căutare - Microsoft Bing",
+  "Type": "App",
+  "Id": "1is_oaKl4Ee42bvr6hJBbA",
+  "Reference": "FEwBsUIYHUS3QrP-RCXazw/1is_oaKl4Ee42bvr6hJBbA",
+  "Created": "2025-10-26T13:21:30.793073Z",
+  "Updated": "2025-10-26T13:21:30.793073Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

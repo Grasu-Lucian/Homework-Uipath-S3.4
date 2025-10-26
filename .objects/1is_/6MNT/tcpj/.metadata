@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox Căutare - Microsoft Bing",
+  "Type": "Screen",
+  "Id": "tcpjU5n_E0qnvEE3BHAprg",
+  "Reference": "FEwBsUIYHUS3QrP-RCXazw/tcpjU5n_E0qnvEE3BHAprg",
+  "ParentRef": "FEwBsUIYHUS3QrP-RCXazw/6MNTyca700OggpGU-wRWQA",
+  "Created": "2025-10-26T13:21:30.9055323Z",
+  "Updated": "2025-10-26T13:21:30.9055323Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
